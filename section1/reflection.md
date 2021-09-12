@@ -8,6 +8,7 @@
 
   -puts "Hello World"
   -print "Hello World"
+  -p "Hello World"
 
 1. What character is used to indicate comments in a ruby file?
   - #
