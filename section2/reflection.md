@@ -6,17 +6,19 @@
 
 1. What is a conditional statement? Give three examples.
   - Conditional statements are lines of code that evaluate to true or false and determine if code within it will execute.
-    1. if age >= 18
+  ```
+     if age >= 18
         return "Adult"
        end
 
-    1. if temp > 75
+     if temp > 75
         puts "Warm outside"
        end
 
-    1. if name == "Bob"
+     if name == "Bob"
         p "Hey Bob!"
        end
+    ```
 1. Why might you want to use an if-statement?
   - An if-statement can control the flow of instructions within your code. For example if the temperature of your computer reaches a certain limit, instructions could be written to turn on the fan or shut down to prevent damage.
 1. What is the Ruby syntax for an if statement?
@@ -62,6 +64,6 @@
 ```
 
 1. How would you call or execute the method that you created above?
-  `hello_someone("Bob")` or `hello_someone "Bob"`
+   - `hello_someone("Bob")` or `hello_someone "Bob"`
 1. What questions do you have about methods in Ruby?
   - I would like to learn more about using unlimited arguments within methods and examples of when that would be applicable.
