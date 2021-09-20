@@ -23,8 +23,11 @@ One challenge learners in a new environment/content area face is feeling like th
 
 So this week, we would like you to start self-monitoring your progress. Before you start on the technical work, reflect back on how the pre-work has gone so far.
 - Have the time estimates matched up with your experience?
+  - At first I estimated I would finish the pre-work sections much faster but they were more time consuming then I expected. I allotted plenty of time to complete the work though so it wasn't a problem.
 - When you sit down to start working, do you have a clear goal of what you want to accomplish and in how much time? If so, how aligned is that to what actually happens?
+  - Since I had plenty of time to complete the pre-work and session homework I didn't specify as clear of goals as I will have to in the future. I did schedule clear time blocks to work diligently and finish as much as I could. I am currently on track to finish the work early with time to review so I think it turned out well.
 - How do you work best - in 2 hour blocks, 4 hour blocks, etc? Do you take breaks regularly? Do you have a system to hold yourself accountable to taking breaks?
+  - I probably work best in 2 hour blocks. For the last few weeks I have been taking breaks whenever my attention seems to waver or my eyes hurt but I probably need to be more mindful in the future.
 
 You've probably heard of the Pomodoro Technique in Mod 0 classes (and elsewhere, maybe!). During this final section of pre-work, we are going to ask that you follow this technique. Please read about it [here](https://www.dovico.com/blog/2020/08/26/the-pomodoro-technique-how-to-manage-your-work-time-and-flow-the-easy-way/). The article doesn't mention writing down Step 1, but we ask that you find a special spot in your notebook where you do this for each work session. In the deliverables, we will ask that you share what you wrote down for Step 1 of the technique each time you started a new task. _Note: if the 25 minutes on/3-5 minutes off isn't best for you, you do **not** have to follow that! The main focus of this is setting an intention and continuing to better understand your working style._
 

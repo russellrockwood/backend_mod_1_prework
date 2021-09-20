@@ -28,8 +28,12 @@ Read/watch one or both of the following:
 
 Then, consider on the following questions. We will ask you to share some of these responses at the end of this section.
 - What are two points from the article or video that either resonated with you, or were brand new to you?
+  * The term 'Zone of Proximal Development (ZPD)' is new to me but I feel like we all have an intuition for it. Behind the ZPD is when you are not challenged and thus not growing much whereas too far beyond you might feel lost. I think moving just beyond what you are comfortable with is will keep you engaged and growing.
+  * _Understand that mistakes are critical to learning._ This point resonates with me because mistakes are inevitable while learning software development and learning to embrace them as avenues for improvement is the best approach.
 - In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
+  * I think I do a decent job of understanding that mistakes are an essential part of learning. One aspect of the growth mindset with room for improvement is setting S.M.A.R.T goals. Having a clearer picture of where I want to be and when will greatly improve my learning.
 - What is something you are good at or knowledgeable at now, that you once weren't? How did you get those skills/knowledge? Was it hard at some point?
+  * Something I am decent at now is basic functional programming with python and javascript. I obtained these skills by attending programming bootcamp which was very difficult for me at first. I got these skills by showing up every day and grinding through exercises. It helped to only focus on the task at hand and not think about the seemingly unlimited complexity that is possible in writing code.
 
 ## Part B Arrays + Hashes
 
@@ -37,7 +41,7 @@ Today you will learn about two common data structures: arrays and hashes.
 
 When you are all done with the lessons, exercises, and questions for today, you will once again use git to save your work locally, and then send your work to Github.
 
-1. Work through the following lessons. Any files that you create while working can be kept in today's `exercises` directory. 
+1. Work through the following lessons. Any files that you create while working can be kept in today's `exercises` directory.
     - [ ] Read about what an [array](https://learnrubythehardway.org/book/ex32.html) is from Learn Ruby the Hard Way.
 
     - [ ] Learn how arrays are [index-based](https://learnrubythehardway.org/book/ex34.html) from Learn Ruby the Hard Way.
