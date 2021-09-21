@@ -32,9 +32,9 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- [Week 1 Calendar](final_prep/images/Screen Shot 2021-09-21 at 4.43.41 PM.png)
-- [Week 2 Calendar](final_prep/images/Screen Shot 2021-09-21 at 4.43.58 PM.png)
-- [Week 3 Calendar](final_prep/images/Screen Shot 2021-09-21 at 4.44.13 PM.png)
+- [Week 1 Calendar](https://github.com/russellrockwood/backend_mod_1_prework/blob/main/final_prep/images/Screen%20Shot%202021-09-21%20at%204.43.41%20PM.png)
+- [Week 2 Calendar](https://github.com/russellrockwood/backend_mod_1_prework/blob/main/final_prep/images/Screen%20Shot%202021-09-21%20at%204.43.58%20PM.png)
+- [Week 3 Calendar](https://github.com/russellrockwood/backend_mod_1_prework/blob/main/final_prep/images/Screen%20Shot%202021-09-21%20at%204.44.13%20PM.png)
 
 ### Mentorship Prep
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
