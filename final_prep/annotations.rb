@@ -47,6 +47,6 @@ def fizzbuzz(num_1, num_2, range)
     end
   end
 end
-
+# Call fizzbuzz function twice with 3 integer arguments
 fizzbuzz(3, 5, 100)
 fizzbuzz(5, 8, 400)
